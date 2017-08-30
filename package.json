@@ -128,7 +128,7 @@
   ],
   "dependencies": {
     "browserify-versionify": "^1.0.6",
-    "video.js": "^5.10.1"
+    "video.js": "^6.2.5"
   },
   "config": {
     "ghooks": {
